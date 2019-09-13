@@ -1,9 +1,14 @@
 import React from 'react'
+// import Header from './components/layout/Header'
+// import Content from './components/layout/Content'
+import Test from './components/Test'
 
 function App() {
   return (
     <div className='App'>
-      <h1>Hello world</h1>
+      {/* <Header />
+      <Content /> */}
+      <Test />
     </div>
   )
 }
